@@ -7,3 +7,5 @@ Creator:
 created: 10. September 2021
 Version: 0.9
 Feature: Progressive Web App für eine Single Side Application mit Service Worker für das Anzeigen von Sensor-Daten, die über BLE von einem ESP32 aberufen werden.
+
+Sensoren: DHT22- Temperature und Luftfeuchtigkeit 
