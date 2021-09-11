@@ -12,3 +12,5 @@ Sensoren: DHT22- Temperature und Luftfeuchtigkeit
 Interessante Links:
 
 https://dev.to/boywithsilverwings/configuring-preact-cli-with-tailwind-css-3ckj
+
+https://github.com/preactjs/preact-cli
